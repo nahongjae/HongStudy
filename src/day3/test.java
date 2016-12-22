@@ -16,4 +16,7 @@ class User1 {
 	public int sum(int n){
 		return n>=1 ? n+sum(n-1):n;
 	}
+	
+	//a의 b pow(2,10) => 1024. 단 
 }
+
