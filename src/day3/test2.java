@@ -1,8 +1,9 @@
 package day3;
 
 public class test2{
-	private void mian() {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) {
+	
+			// TODO Auto-generated method stub
 		System.out.println(User2.b);
 		User2 ob = new User2();
 		User2 ob2 = new User2();
