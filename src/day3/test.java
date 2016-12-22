@@ -68,4 +68,3 @@ class Demo1{
 	private Demo1(){}
 }
 
-
